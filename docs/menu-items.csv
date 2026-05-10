@@ -1,0 +1,24 @@
+id,category,name,description,price,options,badge
+1,Espresso,Espresso,"A single or double shot of our signature house blend — bold, bright, and smooth with a caramel crema.",3.50,"Single / Double",
+2,Espresso,Americano,"Two ristretto shots pulled long with hot water. Full-bodied, clean, and endlessly drinkable.",4.25,"Small / Medium / Large",Popular
+3,Espresso,Macchiato,"Double espresso 'stained' with a generous dollop of velvety steamed milk foam. Intensity with a soft finish.",4.75,"Hot / Iced",House Favorite
+4,Espresso,Cortado,"Equal parts espresso and warm whole milk — a perfectly balanced shot for those who like it strong but smooth.",4.50,"Regular",
+5,Espresso,Flat White,"Two ristretto shots topped with silky micro-foam poured in a thin, even layer. Stronger than a latte, smoother than a cap.",5.25,"Regular / Large",Popular
+6,Special Drinks,The Crew Signature Latte,"Our house blend slow-drip cold brew stirred with brown butter caramel, topped with sweet cream and a pinch of flaky sea salt.",6.75,"Hot / Iced","House Favorite"
+7,Special Drinks,Brown Sugar Oat Latte,"Espresso shaken over ice with brown sugar syrup, then streamed with cold oat milk. The perfect everyday indulgence.",6.25,"Small / Medium / Large",Popular
+8,Special Drinks,Lavender Fog Latte,"Locally sourced lavender syrup and honey swirled into steamed oat milk with a double shot. Floral, calming, memorable.",5.95,"Hot / Iced",New
+9,Special Drinks,Golden Turmeric Latte,"Turmeric, ginger, black pepper, and raw honey whisked into steamed milk. A warming, caffeine-free ritual.",5.75,"Whole / Oat / Almond",
+10,Special Drinks,Maple Pecan Cold Brew,"Our 12-hour cold brew concentrate over ice, sweetened with pure maple syrup and finished with toasted pecan cream.",7.25,"Regular / Large",Popular
+11,Pastries,Butter Croissant,"Three-day laminated dough — 27 layers of pure butter pastry with a shattering crust and honeyed crumb. Baked fresh each morning.",4.50,"Plain / Almond","House Favorite"
+12,Pastries,Morning Glory Muffin,"Packed with grated carrot, apple, raisin, toasted coconut, and orange zest. Dense, moist, and genuinely filling.",4.25,"Regular",Popular
+13,Pastries,Cinnamon Roll,"Slow-risen brioche dough rolled with brown butter and cinnamon sugar, finished with a generous cream cheese glaze.",5.50,"Classic / Vegan",
+14,Pastries,Banana Walnut Loaf,"Dark, moist banana bread with roughly chopped walnuts and a dark chocolate swirl. Served warm by request.",4.75,"Slice / Whole Loaf",Popular
+15,Pastries,Chocolate Almond Tart,"Dark Valrhona ganache set in a buttery almond frangipane shell, dusted with cocoa. Best at room temperature.",5.75,"Single Slice",
+16,Sandwiches,Egg & Aged Cheddar,"Scrambled free-range egg, aged white cheddar, baby arugula, and whole-grain mustard on a toasted brioche bun.",8.50,"Add Avocado +$1.50","House Favorite"
+17,Sandwiches,Smoked Turkey Pesto,"Sliced smoked turkey, sun-dried tomato pesto, provolone, and baby spinach pressed on sourdough. Available warm.",10.50,"Warm / Cold",Popular
+18,Sandwiches,The Veggie Club,"Roasted red pepper hummus, sliced avocado, cucumber, pickled red onion, and sprouts on toasted multigrain.",9.75,"Multigrain / Sourdough",
+19,Sandwiches,Prosciutto & Brie,"Prosciutto di Parma, triple-cream brie, fig jam, and peppery rocket on a crusty French demi-baguette.",11.50,"Half / Full",
+20,Full Drinks,Matcha Green Tea Latte,"Ceremonial-grade Japanese matcha whisked into steamed milk with a touch of raw honey. Earthy, sweet, and vivid.",6.25,"Hot / Iced","House Favorite"
+21,Full Drinks,Classic Lemonade,"Fresh-squeezed lemons, pure cane sugar, and cold sparkling water over crushed ice. No shortcuts, no syrups.",4.75,"Still / Sparkling",Popular
+22,Full Drinks,Fresh Mint Tea,"A generous handful of whole fresh mint leaves steeped to order in near-boiling water. Served in a glass pot.",4.25,"Hot",
+23,Full Drinks,Strawberry Basil Lemonade,"Our house lemonade muddled with fresh strawberries and a sprig of basil. Bright, unexpected, and refreshing.",5.75,"Regular / Large",Seasonal
