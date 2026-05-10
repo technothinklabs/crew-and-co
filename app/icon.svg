@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dark coffee background -->
+  <rect width="32" height="32" rx="6" fill="#2F1100"/>
+  <!-- Steam wisps -->
+  <path d="M12 11 Q11 9 12 7" stroke="#D4920A" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M16 11 Q15 9 16 7" stroke="#D4920A" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M20 11 Q19 9 20 7" stroke="#D4920A" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Cup body (trapezoid: wider at top) -->
+  <path d="M7 12 L9 22 H23 L25 12Z" fill="#FAF4EC"/>
+  <!-- Cup handle -->
+  <path d="M23 15.5 Q29 15.5 29 18 Q29 20.5 23 20.5" stroke="#FAF4EC" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gold saucer -->
+  <rect x="5" y="23.5" width="22" height="3" rx="1.5" fill="#D4920A"/>
+</svg>
