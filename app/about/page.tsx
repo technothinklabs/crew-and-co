@@ -4,10 +4,10 @@ import Button from "../components/Button";
 import ReserveButton from "../components/ReserveButton";
 
 const IMAGES = {
-  hero: "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=1920",
-  story: "https://images.pexels.com/photos/15259599/pexels-photo-15259599.jpeg?auto=compress&cs=tinysrgb&w=900",
-  maya: "https://images.pexels.com/photos/34207050/pexels-photo-34207050.jpeg?auto=compress&cs=tinysrgb&w=600",
-  james: "https://images.pexels.com/photos/6077664/pexels-photo-6077664.jpeg?auto=compress&cs=tinysrgb&w=600",
+  hero: "/images/pexels-1307698.webp",
+  story: "/images/pexels-15259599.webp",
+  maya: "/images/pexels-6077664.webp",
+  james: "/images/pexels-6077664.webp",
 };
 
 const VALUES = [

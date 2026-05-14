@@ -7,8 +7,7 @@ import ReserveButton from "./components/ReserveButton";
 import { getPopularItems } from "./data/menu";
 import { events } from "./data/events";
 
-const HERO_IMAGE =
-  "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=1920";
+const HERO_IMAGE = "/images/pexels-1307698.webp";
 
 const STATS = [
   { value: "Est. 2019", label: "Hackney, London" },
