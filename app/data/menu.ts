@@ -34,8 +34,7 @@ export const CATEGORY_SUBTITLES: Record<Category, string> = {
   "Full Drinks": "Beyond the Bean",
 };
 
-const PEXELS = (id: number, w = 600) =>
-  `https://images.pexels.com/photos/${id}/pexels-photo-${id}.jpeg?auto=compress&cs=tinysrgb&w=${w}`;
+const PEXELS = (id: number) => `/images/pexels-${id}.webp`;
 
 export const menuItems: MenuItem[] = [
   // ── Espresso ──────────────────────────────────────────────────────────────

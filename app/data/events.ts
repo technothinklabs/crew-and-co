@@ -9,8 +9,7 @@ export interface Event {
   image: string;
 }
 
-const PEXELS = (id: number, w = 600) =>
-  `https://images.pexels.com/photos/${id}/pexels-photo-${id}.jpeg?auto=compress&cs=tinysrgb&w=${w}`;
+const PEXELS = (id: number) => `/images/pexels-${id}.webp`;
 
 export const events: Event[] = [
   {
