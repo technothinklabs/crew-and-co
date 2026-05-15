@@ -1,9 +1,12 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import dynamic from "next/dynamic";
 import Navigation from "./Navigation";
 import Footer from "./Footer";
 import ReserveTableModal from "./ReserveTableModal";
+
+const N8nChat = dynamic(() => import("./N8nChat"), { ssr: false });
 
 export default function PageLayout({ children }: { children: React.ReactNode }) {
   const [modalOpen, setModalOpen] = useState(false);
@@ -25,6 +28,7 @@ export default function PageLayout({ children }: { children: React.ReactNode }) 
         open={modalOpen}
         onClose={() => setModalOpen(false)}
       />
+      <N8nChat />
     </>
   );
 }
