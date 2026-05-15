@@ -1,2 +1,45 @@
 @import "tailwindcss";
 @import "../docs/design/tokens.css";
+
+/* n8n Chat widget — Crew & Co. brand overrides */
+:root {
+  --chat--color--primary: #2f1100;
+  --chat--color--primary-shade-50: #261000;
+  --chat--color--primary--shade-100: #1e0900;
+  --chat--color--secondary: #d4920a;
+  --chat--color-secondary-shade-50: #b87d08;
+  --chat--color-dark: #1e0900;
+  --chat--border-radius: 0.5rem;
+  --chat--font-family: var(--font-sans), system-ui, sans-serif;
+
+  /* Header */
+  --chat--header--background: #2f1100;
+  --chat--header--color: #faf4ec;
+
+  /* Close button */
+  --chat--close--button--color: #faf4ec;
+  --chat--close--button--color-hover: #d4920a;
+
+  /* Toggle button */
+  --chat--toggle--background: #2f1100;
+  --chat--toggle--hover--background: #1e0900;
+  --chat--toggle--active--background: #1e0900;
+  --chat--toggle--color: #faf4ec;
+
+  /* Messages */
+  --chat--message--user--background: #d4920a;
+  --chat--message--user--color: #fff;
+  --chat--message--bot--background: #fff;
+
+  /* Body / footer */
+  --chat--body--background: #faf4ec;
+  --chat--footer--background: #faf4ec;
+
+  /* Send button */
+  --chat--input--send--button--color: #d4920a;
+  --chat--input--send--button--color-hover: #b87d08;
+
+  /* Primary action buttons (Get Started) */
+  --chat--button--background--primary: #d4920a;
+  --chat--button--background--primary--hover: #b87d08;
+}
